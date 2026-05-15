@@ -1,8 +1,3 @@
----
-layout: project
-title: "Fine Dining Reservation Analytics"
----
-
 # 🍽️ Fine Dining Reservation Analytics
 
 ## Overview
